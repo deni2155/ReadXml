@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<school>
+	<teachers>
+		<teacher uid="7fff433d-eb54-45de-ab41-ee51f2b4eab8">
+			<name>Мария Ивановна</name>
+			<discipline>Математика</discipline>
+		</teacher>
+		<teacher uid="a8014385-7a48-42cb-ab8b-21a34307cb96">
+			<name>Нина Николаевна</name>
+			<discipline>Русский язык</discipline>
+		</teacher>
+		<teacher uid="232fff9a-3bd0-4012-aa2e-9e50423f17f7">
+			<name>Анна Петровна</name>
+			<discipline>Биология</discipline>
+		</teacher>
+	</teachers>
+	<learners>
+		<learner uid="fee73cef-ec85-42f9-a903-3ec8cb0a7406">
+			<fio>Феодосия</fio>
+			<class>5</class>
+		</learner>
+		<learner uid="84fe61fb-b3cf-463b-beaf-f5077587db04">
+			<fio>Евпатий</fio>
+			<class>6</class>
+		</learner>
+		<learner uid="0891c321-2baa-49b6-91dc-d7d6964b3b2e">
+			<fio>Коловрат</fio>
+			<class>7</class>
+		</learner>
+	</learners>
+</school>
